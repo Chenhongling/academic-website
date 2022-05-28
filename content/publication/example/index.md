@@ -6,6 +6,9 @@ title: 'Multitrace Semiblind Nonstationary Deconvolution'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Jinghuai Gao
+  - Naihao Liu
+  - Yang Yang
 
 # Author notes (optional)
 author_notes:
