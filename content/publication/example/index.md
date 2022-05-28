@@ -31,7 +31,7 @@ publication_short: In *IEEE Geoscience and Remote Sensing Letters*
 abstract: We proposed a multitrace semiblind nonstationary deconvolution method. The proposed method estimates reflectivity and source wavelet simultaneously for pursuing high-resolution seismic processing. The mathematical framework is derived based on convolution exchange law and Fourier transform property. In this framework, seismic records are treated as the convolution of a time-varying wavelet and nonattenuated reflectivity or the convolution of a constant wavelet and attenuated reflectivity. Using these two equivalence relations, we devise an objective function containing two variables, the reflectivity and wavelet. In addition, we add the 2-D total variation constraint to the cost function, which preserves lateral and vertical continuity of the estimated reflectivity. The cost function is solved by alternating iteration and proximal splitting methods, under the assumptions of a known attenuation model and sparse reflectivity. In addition, the mathematical framework is extended to implement semiblind deconvolution in an approximate layered earth model. To demonstrate the effectiveness of the proposed method, we apply the proposed method to synthetic data and field data and confirm that the proposed method can achieve better reflectivity and source wavelet.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9528894'
+url_pdf: 'https://ieeexplore.ieee.org/document/8629984'
 url_code: ''
 url_dataset: ''
 url_poster: ''
