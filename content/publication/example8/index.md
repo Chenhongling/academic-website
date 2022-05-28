@@ -30,8 +30,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *79th EAGE Conference and Exhibition 2017*
-publication_short: In *79th EAGE Conference and Exhibition 2017*
+publication: In *79th EAGE Conference and Exhibition*
+publication_short: In *79th EAGE Conference and Exhibition*
 
 abstract:Conventional deconvolution is based on the stationary convolution model and theoretically requires a stationary input. However, the field data is nonstationary due to effects of anelastic attenuation and dispersion, which makes it necessary to compensate for the attenuation through inverse Q-filtering methods. Nevertheless, the attenuation compensation algorithm for inverse Q-filtering is inherently unstable. In order to deal with this issue, some researchers use nonstationary reflectivity inversion to recover the reflectivity, Which is significantly affected by random noise. Therefore, we try to add the EADTV regularization constraint to the inversion in order to stably recover the reflectivity from nonstationary data as well as to reduce noise and simultaneously preserve edges and discontinuities. Both synthetic data and field data prove the efficiency of the proposed method and its superiority over the result by conventional inversion method using l1-norm regularization.
 
