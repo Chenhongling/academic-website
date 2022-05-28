@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -29,7 +29,8 @@ experience:
     location: Edmonton
     date_start: '2021-08-03'
     date_end: '2022-10-31'
-    description: Research in seismic data processing and inversion.
+    description: |2-
+       Research in seismic data processing and inversion.
     
   - title: Phd candidate student
     company: Xi'an Jiaotong University
