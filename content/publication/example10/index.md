@@ -7,7 +7,7 @@ title: 'HQS-HRINet: An unrolled deep learning method for seismic high-resolution
 authors:
   - admin
   - JingHuai Gao
-  - ZHaoqi Gao
+  - Zhaoqi Gao
   - Shian Shen
   - Zhiguo Wang
   - Xiudi Jiang
@@ -33,7 +33,7 @@ publication_types: ['1']
 publication: In *82nd EAGE Annual Conference & Exhibition*
 publication_short: In *82nd EAGE Annual Conference & Exhibition*
 
-abstract: An unrolled deep neural network, called HQS-HRINet, is introduced to finish the seismic high-resolution inversion. It unrolls the iterative half-quadratic splitting (HQS) algorithm into a deep neural network and applies the residual convolutional neural network (CNN) blocks to learn the proximal mapping to avoid the design of regularization functions and complex algorithms. Further, the regularization parameter at each iteration can be explicitly learned from the training sets. Significantly, the errors brought by the inaccurate zero-phase wavelets, estimated by a simple amplitude spectral fitting, can be compensated by the error back-propagation. Finally, the synthetic and field data examples are conducted to demonstrate the effectiveness of the proposed method.
+abstract:An unrolled deep neural network, called HQS-HRINet, is introduced to finish the seismic high-resolution inversion. It unrolls the iterative half-quadratic splitting (HQS) algorithm into a deep neural network and applies the residual convolutional neural network (CNN) blocks to learn the proximal mapping to avoid the design of regularization functions and complex algorithms. Further, the regularization parameter at each iteration can be explicitly learned from the training sets. Significantly, the errors brought by the inaccurate zero-phase wavelets, estimated by a simple amplitude spectral fitting, can be compensated by the error back-propagation. Finally, the synthetic and field data examples are conducted to demonstrate the effectiveness of the proposed method. 
 
 # Summary. An optional shortened abstract.
 summary:
