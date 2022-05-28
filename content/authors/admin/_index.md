@@ -18,10 +18,10 @@ bio: My research interests include seismic high-resolution and parameters invers
 
 # Interests to show in About widget
 interests:
- Seismic signal processing
- Deep learning in seismic inversion
- Super-resolution inversion
- Deblending of simultaneous-source data
+  - Seismic signal processing
+  - Deep learning in seismic inversion
+  - Super-resolution inversion
+  - Deblending of simultaneous-source data
 
 # Education to show in About widget
 education:
