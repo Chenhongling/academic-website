@@ -22,13 +22,13 @@ publishDate: '2019-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Geoscience and Remote Sensing Letters*
 publication_short: In *IEEE Geoscience and Remote Sensing Letters*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We proposed a multitrace semiblind nonstationary deconvolution method. The proposed method estimates reflectivity and source wavelet simultaneously for pursuing high-resolution seismic processing. The mathematical framework is derived based on convolution exchange law and Fourier transform property. In this framework, seismic records are treated as the convolution of a time-varying wavelet and nonattenuated reflectivity or the convolution of a constant wavelet and attenuated reflectivity. Using these two equivalence relations, we devise an objective function containing two variables, the reflectivity and wavelet. In addition, we add the 2-D total variation constraint to the cost function, which preserves lateral and vertical continuity of the estimated reflectivity. The cost function is solved by alternating iteration and proximal splitting methods, under the assumptions of a known attenuation model and sparse reflectivity. In addition, the mathematical framework is extended to implement semiblind deconvolution in an approximate layered earth model. To demonstrate the effectiveness of the proposed method, we apply the proposed method to synthetic data and field data and confirm that the proposed method can achieve better reflectivity and source wavelet.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
