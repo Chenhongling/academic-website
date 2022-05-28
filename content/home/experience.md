@@ -38,7 +38,7 @@ experience:
     location: Xi'an
     date_start: '2018-09-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.  
+    description: Research in seismic data processing and inversion.   
 
 design:
   columns: '2'
