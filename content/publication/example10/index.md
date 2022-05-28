@@ -1,5 +1,5 @@
 ---
-title: 'HQS-HRINet: An unrolled deep learning method for seismic high-resolution inversion with an inaccurate wavelet'
+title: 'HQS-HRINet:An unrolled deep learning method for seismic high-resolution inversion with an inaccurate wavelet'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -17,7 +17,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2021-05-31T00:00:00Z'
+date: '2021-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
