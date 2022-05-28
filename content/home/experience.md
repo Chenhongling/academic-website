@@ -29,7 +29,7 @@ experience:
     location: Edmonton
     date_start: '2021-08-03'
     date_end: '2022-10-31'
-    description: |2-
+    description: |2- Research in seismic data processing and inversion.
 
 
   - title: Professor of Semiconductor Physics
