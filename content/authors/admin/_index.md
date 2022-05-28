@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Joint Ph.D. student of Geophysics
+      institution: University of Alberta
+      year: 2021.8-2022.10
     - course: Ph.D. student of Information and Communication Engineering
       institution: Xi’an Jiaotong University
       year: 2018.9-Now
