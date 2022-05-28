@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hongling Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student of Information and Communication Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Xi’an Jiaotong University
+    url: http://www.xjtu.edu.cn/index.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include seismic high-resolution and parameters inversion, seismic proccesing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+ Seismic signal processing
+ Deep learning in seismic inversion
+ Super-resolution inversion
+ Deblending of simultaneous-source data
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. student of Information and Communication Engineering
+      institution: Xi’an Jiaotong University
+      year: 2018.9-Now
+    - course: Master of Engineering in Geophysics Exploration
+      institution: China University of Petroleum-Beijing
+      year: 2015.9-2018.7
+    - course: Bachelor of Geophysics
+      institution: Northeast Petroleum University
+      year: 2011.9-2015.7
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '859311743@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
