@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Experience
 subtitle:
@@ -30,7 +30,6 @@ experience:
     date_start: '2021-08-03'
     date_end: '2022-10-31'
     description: Research in seismic data processing and inversion.
-
 
   - title: Professor of Semiconductor Physics
     company: Xi'an Jiaotong University
