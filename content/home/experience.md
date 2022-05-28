@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Joint Phd student
-    company: Xi'an Jiaotong University
+    company: University of Alberta
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-xj
     location: Edmonton
     date_start: '2021-08-03'
     date_end: '2022-10-31'
@@ -33,7 +33,7 @@ experience:
 
 
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: Xi'an Jiaotong University
     company_url: ''
     company_logo: org-x
     location: California
