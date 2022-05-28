@@ -25,7 +25,7 @@ experience:
   - title: Joint Phd student
     company: University of Alberta
     company_url: ''
-    company_logo: org-xj
+    company_logo: org-al
     location: Edmonton
     date_start: '2021-08-03'
     date_end: '2022-10-31'
@@ -38,7 +38,7 @@ experience:
     company_logo: org-xj
     location: Xi'an
     date_start: '2018-09-01'
-    date_end: 'Now'
+    date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.  
 
 design:
