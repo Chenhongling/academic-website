@@ -75,4 +75,4 @@ highlight_name: true
 Hongling Chen is a Phd candidate of Information and Communication Engineering in Xi'an Jiaotong university. Her research interests include  Seismic signal processing, Deep learning in seismic inversion, Super-resolution inversion, and Deblending of simultaneous-source data. She is in Deep Exploration Scientific Research Center.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
