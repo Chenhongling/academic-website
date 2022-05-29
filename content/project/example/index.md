@@ -17,6 +17,11 @@ links:
     icon_pack: fab
     name: Follow
     url: https://scholar.google.com/citations?hl=en&user=7uE795IAAAAJ
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/profile/Hongling-Chen
+    
 url_code: ''
 url_pdf: ''
 url_slides: ''
