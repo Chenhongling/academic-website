@@ -31,7 +31,7 @@ experience:
     date_end: '2022-10-31'
     description: Research in seismic data processing and inversion.
 
-  - title:Phd candidate student
+  - title: Phd candidate student
     company: Xi'an Jiaotong University
     company_url: ''
     company_logo: org-xj
