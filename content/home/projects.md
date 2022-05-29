@@ -29,7 +29,7 @@ content:
       tag: '*'
     - name: Deep Learning in seismic inversion
       tag: Deep Learning 
-    - name: Other
+    - name: other
       tag: Traditional methods
 
 design:
