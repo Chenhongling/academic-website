@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Joint Ph.D. student of Geophysics
+    - course: Joint training Phd student of Geophysics
       institution: University of Alberta
       year: 2021.8-2022.10
-    - course: Ph.D. student of Information and Communication Engineering
+    - course: Phd student of Information and Communication Engineering
       institution: Xi’an Jiaotong University
       year: 2018.9-Now
     - course: Master of Engineering in Geophysics Exploration
@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '859311743@qq.com'
@@ -72,7 +72,7 @@ email: '859311743@qq.com'
 highlight_name: true
 ---
 
-Hongling Chen is a Phd candidate of Information and Communication Engineering in Xi'an Jiaotong university. His research interests include  Seismic signal processing, Deep learning in seismic inversion, Super-resolution inversion, and Deblending of simultaneous-source data. She is in Deep Exploration Scientific Research Center.
+Hongling Chen is a Phd candidate of Information and Communication Engineering in Xi'an Jiaotong university. Her research interests include  Seismic signal processing, Deep learning in seismic inversion, Super-resolution inversion, and Deblending of simultaneous-source data. She is in Deep Exploration Scientific Research Center.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
