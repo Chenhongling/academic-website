@@ -53,6 +53,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Chenhongling
+  - icon: researchgate
+    icon_pack: fab
+    name: Follow
+    url: https://www.researchgate.net/profile/Hongling-Chen
 
 
 # Link to a PDF of your resume/CV.
