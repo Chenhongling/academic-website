@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: An introduction to using Hongling Chen's Slides feature.
 authors: []
 tags: []
 categories: []
