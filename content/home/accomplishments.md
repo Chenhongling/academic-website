@@ -25,22 +25,20 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2021'
+    date_start: '2021-10-01'
     description: ''
     organization: award
     organization_url: 'Xi'an Jiaotong University'
     title: National scholarship
-    url: ''  
-    
+    url: ''     
   - certificate_url: ''
     date_end: ''
-    date_start: '2019'
+    date_start: '2019-01-01'
     description: ''
     organization: '' 
     organization_url: ''
     title: Best student paper award in the 2019 ICTAC
-    
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: ''
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
