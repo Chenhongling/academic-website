@@ -27,8 +27,8 @@ item:
     date_end: ''
     date_start: '2021-10-01'
     description: ''
-    organization: award
-    organization_url: 'Xi'an Jiaotong University'
+    organization: ''
+    organization_url: Xi'an Jiaotong University
     title: National scholarship
     url: ''     
   - certificate_url: ''
