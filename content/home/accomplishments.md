@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2021-01-25'
     description: ''
-    organization: Coursera
+    organization: ''
     organization_url: ''
     title: National scholarship
     url: ''  
