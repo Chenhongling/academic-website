@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2021-10-01'
     description: ''
-    organization: Xi'an Jiaotong University得我
+    organization: Xi'an Jiaotong University
     organization_url: ''
     title: National scholarship in Xi'an Jiaotong University
     url: ''     
@@ -45,6 +45,13 @@ item:
     organization: Northeast Petroleum University (NPU)
     organization_url: ''
     title: National scholarship by Northeast Petroleum University (NPU)
+    url: ''
+  - certificate_url: ''
+    date_start: '2020-10-01'
+    description: ''
+    organization: 中国地球物理学会
+    organization_url: ''
+    title: 2020年地球联合年会优秀学生论文
     url: ''
 
 design:
