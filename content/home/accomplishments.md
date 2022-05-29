@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2021-10-01'
     description: ''
-    organization: ''
+    organization: Xi'an Jiaotong University得我
     organization_url: ''
     title: National scholarship in Xi'an Jiaotong University
     url: ''     
@@ -42,7 +42,7 @@ item:
   - certificate_url: ''
     date_start: '2013-10-01'
     description: ''
-    organization: National scholarship by Northeast Petroleum University (NPU)
+    organization: Northeast Petroleum University (NPU)
     organization_url: ''
     title: National scholarship by Northeast Petroleum University (NPU)
     url: ''
