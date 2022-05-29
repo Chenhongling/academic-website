@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Joint Phd student
+  - title: Joint training Phd student
     company: University of Alberta
     company_url: ''
     company_logo: org-al
@@ -31,7 +31,7 @@ experience:
     date_end: '2022-10-31'
     description: Research in seismic data processing and inversion.
 
-  - title: Professor of Semiconductor Physics
+  - title:Phd candidate student
     company: Xi'an Jiaotong University
     company_url: ''
     company_logo: org-xj
