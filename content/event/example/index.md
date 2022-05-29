@@ -6,7 +6,7 @@ event_url: https://example.org
 
 location: CHINA
 address:
-  street: 450 Serra Mall
+  street: No.28 of Xianning West Road
   city: Xi'an
   region: Shaanxi
   postcode: '710049'
@@ -17,12 +17,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
-date_end: ''
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2030-01-01T00:00:00Z'
 
 authors: []
 tags: []
