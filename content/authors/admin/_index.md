@@ -55,7 +55,7 @@ social:
   - icon: researchgate
     icon_pack: fab
     name: Follow
-    url: https://www.researchgate.net/profile/Hongling-Chen
+    link: https://www.researchgate.net/profile/Hongling-Chen
 
 
 # Link to a PDF of your resume/CV.
