@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Project for deep learning method in seismic high-resolution process
+summary: Traditional and deep learning method in seismic inversion.
 tags:
   - Deep Learning
 date: '2018-04-27T00:00:00Z'
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: google
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://scholar.google.com/citations?hl=en&user=7uE795IAAAAJ
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 seismic high-resolution
