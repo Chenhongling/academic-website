@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: Award
 
 # This file represents a page section.
 headless: true
@@ -31,6 +31,7 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
+    
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
