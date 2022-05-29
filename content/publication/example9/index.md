@@ -34,7 +34,7 @@ publication_types: ['1']
 publication: In *International Geophysical Conference, Qingdao, China*
 publication_short: In *International Geophysical Conference, Qingdao, China*
 
-abstract: We introduce a robust method to remove interference generated from the simultaneous source acquisition, which improves the method using an iterative seislet thresholding algorithm (ISTA), avoiding the calculation of the local slopes and the assumption that the inverse of dithering operator is equal to its transpose. In this method, we define the value of backward operator as identity operator giving the framework a new physical meaning, and use shaping operator in curvelet domain to provide a coherency-based constrain for the model. The simulated synthetic and field data examples demonstrate the effectiveness of the proposed method and the better performance of inversion results. Besides, this proposed method shows a robust behavior.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:
