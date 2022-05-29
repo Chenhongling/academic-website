@@ -1,5 +1,5 @@
 ---
-title: 'An Adaptive Time-Varying Seismic Super-Resolution Inversion Based on Lp Regularization'
+title: 'Optimization-inspired deep learning high-resolution inversion for seismic data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
