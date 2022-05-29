@@ -30,7 +30,7 @@ content:
     - name: Deep Learning in seismic inversion
       tag: Deep Learning 
     - name: Other
-      tag: Demo
+      tag: Traditional methods
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
