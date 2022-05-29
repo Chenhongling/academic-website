@@ -14,7 +14,7 @@ organizations:
     url: http://www.xjtu.edu.cn/index.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include seismic high-resolution and parameters inversion, seismic proccesing.
+bio: My research interests include seismic data high-resolution and parameters inversion, seismic proccesing.
 
 # Interests to show in About widget
 interests:
