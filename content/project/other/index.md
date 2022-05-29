@@ -1,5 +1,5 @@
 ---
-title: Project for other seismic inversion method
+title: Project for nonlearning seismic inversion method
 summary: Traditional method in seismic inversion.
 tags:
   - seismic inversion
