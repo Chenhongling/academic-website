@@ -30,7 +30,7 @@ publication_types: ['2']
 publication: In *IEEE GEOSCIENCE AND REMOTE SENSING LETTERS*
 publication_short: In *IEEE GEOSCIENCE AND REMOTE SENSING LETTERS*
 
-abstract: The time-varying seismic super-resolution inversion technique becomes more and more attractive in seismic exploration. However, most existing inversion methods suffer from amplitude loss and manual adjustment parameters. In this letter, we present an adaptive time-varying seismic super-resolution inversion method based on the L p (0 <; p <; 1) regularization to address these issues. First, the L p -norm with 0 <; p <; 1 is applied to constrain the reflectivity to obtain a sparser and more robust solution than the L 1 regularization. To solve the nonconvex inversion problem adaptively, second, we provide a new algorithm called singular value decomposition (SVD)-Hadamard product parametrization (HPP). The idea of the new algorithm is to apply an HPP to express the L p (0 <; p ≤ 1) regularization into a sum of the L 2 regularizations that are easy to be programed and solved. Then, the SVD is adopted to solve each L 2 regularization. It is convenient to apply the L-curve method or its variants to determine the regularization parameters at each iteration for finishing the inversion adaptively. Finally, synthetic and field data examples are tested to validate the effectiveness of the proposed method. 
+abstract: The time-varying seismic super-resolution inversion technique becomes more and more attractive in seismic exploration. However, most existing inversion methods suffer from amplitude loss and manual adjustment parameters. In this letter, we present an adaptive time-varying seismic super-resolution inversion method based on the Lp (0<p<1) regularization to address these issues. First, the Lp-norm with 0<p<1 is applied to constrain the reflectivity to obtain a sparser and more robust solution than the L1 regularization. To solve the nonconvex inversion problem adaptively, second, we provide a new algorithm called singular value decomposition (SVD)-Hadamard product parametrization (HPP). The idea of the new algorithm is to apply an HPP to express the Lp (0<p≤1) regularization into a sum of the L2 regularizations that are easy to be programed and solved. Then, the SVD is adopted to solve each L2 regularization. It is convenient to apply the L-curve method or its variants to determine the regularization parameters at each iteration for finishing the inversion adaptively. Finally, synthetic and field data examples are tested to validate the effectiveness of the proposed method. 
 
 # Summary. An optional shortened abstract.
 summary:
@@ -77,12 +77,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
