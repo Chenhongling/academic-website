@@ -7,7 +7,7 @@ title: 'An Adaptive Time-Varying Seismic Super-Resolution Inversion Based on Lp 
 authors:
   - admin
   - Jinghuai Gao
-  - Jinghuai Gao
+  - Bing Zhang
 
 # Author notes (optional)
 author_notes:
