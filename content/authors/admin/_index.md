@@ -31,7 +31,7 @@ education:
     - course: Phd student of Information and Communication Engineering
       institution: Xi’an Jiaotong University
       year: 2018.9-Now
-    - course: Master of Engineering in Geophysics Exploration
+    - course: Master of Geological Resources and Geological Engineering
       institution: China University of Petroleum-Beijing
       year: 2015.9-2018.7
     - course: Bachelor of Geophysics
