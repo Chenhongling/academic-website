@@ -1,5 +1,5 @@
 ---
-title: Project for deep learning method in seismic high-resolution process
+title: Project for deep learning method based seismic high-resolution inversion
 summary: Traditional and deep learning method in seismic inversion.
 tags:
   - Deep Learning
