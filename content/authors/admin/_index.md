@@ -6,7 +6,7 @@ title: Hongling Chen
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate student of Information and Communication Engineering
+role: Phd candidate student of Information and Communication Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
